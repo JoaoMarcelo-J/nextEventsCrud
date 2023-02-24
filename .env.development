@@ -1,0 +1,1 @@
+MONGO_URI= "mongodb+srv://admin:admin123456@eventcrud.pzd6qbq.mongodb.net/?retryWrites=true&w=majority"
