@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3000";
+const BASE_URL = "https://next-events-crud-mjffeok6b-joao-marcelos-projects-92cfaf28.vercel.app";
 
 export type formDataType = {
   id: string;
