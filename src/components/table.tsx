@@ -53,7 +53,7 @@ export function Table() {
         </tr>
       </thead>
       <tbody className="bg-gray-200">
-        {data.map((obj: TrProps, i: number) => (
+        {data?.map((obj: TrProps, i: number) => (
           <Tr {...obj} key={i} />
         ))}
       </tbody>
